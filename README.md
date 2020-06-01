@@ -1,14 +1,14 @@
-# vue-horizontal-calendar
+# vue-horizontal-calendarCE
 
 a horizontal calendar component for Vue.js :computer:
 
 ### install
 ```
-npm install vue-horizontal-calendar -S
+npm install vue-horizontal-calendarCE -S
 ```
 or if you prefer yarn
 ```
-yarn add vue-horizontal-calendar
+yarn add vue-horizontal-calendarCE
 ```
 
 ### local import

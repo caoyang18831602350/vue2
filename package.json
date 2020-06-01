@@ -1,8 +1,24 @@
 {
+<<<<<<< HEAD
   "name": "vue-horizontal-calendar-master",
   "version": "1.0.0",
   "description": "a horizontal calendar component for Vue.js :computer:",
   "main": "babel.config.js",
+=======
+  "name": "vue-horizontal-calendar-ce",
+  "version": "0.7.11",
+  "description": "a horizontal calendar component for Vue.js",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lib": "vue-cli-service build --target lib --name vue-horizontal-calendar --dest lib src/components/index.js"
+  },
+  "main": "lib/vue-horizontal-calendar.umd.min.js",
+  "author": {
+    "name": "jacques"
+  },
+>>>>>>> 90518ae02b8756c97620540485944ade4978326a
   "dependencies": {
     "node-modules": "^1.0.1"
   },
